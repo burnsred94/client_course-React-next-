@@ -1,0 +1,33 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+
+	color: var(--black);
+	background: #F9F8F8;
+
+	font-family: "Nunito Sans", sans-serif;
+}
+
+a {
+	text-decoration: none;
+
+	color: inherit;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+:root {
+	--black: #1A1A1A;
+	--gray-light: #EBEBEB;
+	--gray-dark: #7B7D85;
+	--white: white;
+	--primary: #7653FC;
+	--primary-hover: #6344DF;
+	--red: #FC836D;
+	--green: #1DC37E;
+	--green-light: #D2D2D2;
+	--font-family: "Nunito Sans", sans-serif;
+}
